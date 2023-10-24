@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": "125gfhf4r985585", "email": "admin@admin.com", "password": "admin" },
+    { "id": "569wer5egf85585", "email": "moderator@moderator.com", "password": "moderator" },
+    { "id": "309nj6gfhf4r585", "email": "user@user.com", "password": "user" }
+  ]
+}
